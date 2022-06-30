@@ -31,6 +31,7 @@
   "license": "MIT",
   "peerDependencies": {
 	"@mui/material": "^5.8.6",
+	"@mui/styles": "^5.8.6",
     "prop-types": "^15.7.2",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
