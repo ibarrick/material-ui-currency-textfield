@@ -27,7 +27,7 @@ export default {
       exclude: 'node_modules/**',
       plugins: [ 'external-helpers' ]
     }),
-    resolve(),
+//    resolve()
     commonjs({
       include: 'node_modules/**',
       namedExports: {
@@ -41,7 +41,7 @@ export default {
         'node_modules/react-is/index.js': [
           'isElement',
           'isValidElementType',
-          'ForwardRef'
+		  'ForwardRef'
         ]
       }
     })
