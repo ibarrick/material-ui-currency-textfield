@@ -95,7 +95,7 @@ class CurrencyTextField extends React.Component {
       "tabIndex",
       "fullWidth",
       "rows",
-      "rowsMax",
+      "maxRows",
       "select",
       "required",
       "helperText",
